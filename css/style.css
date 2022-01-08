@@ -16,6 +16,7 @@ body {
 .bottom-cloud {
     position: absolute;
     bottom: 300px;
+    left: 200px;
 }
 
 .bottom-container {
@@ -134,7 +135,7 @@ hr {
 .top-cloud {
     position: absolute;
     top: 60px;
-    right: 350px;
+    right: 250px;
 }
 
 .webdev {
